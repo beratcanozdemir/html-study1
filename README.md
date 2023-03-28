@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) HTML Eğitimi Bölüm Sonu Çalışması.
